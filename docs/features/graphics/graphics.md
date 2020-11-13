@@ -12,4 +12,3 @@ The `MonoGame.Extended.Graphics` library contains extensions useful for generati
 ```
 dotnet add package MonoGame.Extended.Graphics
 ```
-

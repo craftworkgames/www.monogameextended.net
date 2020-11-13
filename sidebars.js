@@ -17,6 +17,8 @@ module.exports = {
       'features/cameras/cameras',
       'features/animations/animations',
       'features/collision/collision',
+      'features/contentManager-extensions/contentManager-extensions',
+      'features/serialization/serialization',
     ]
   },
 };

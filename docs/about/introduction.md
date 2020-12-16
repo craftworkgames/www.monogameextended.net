@@ -10,7 +10,7 @@ Welcome to the documentation for `MonoGame.Extended`. Here you will find materia
 
 To the left (or bottom right menu on mobile/tablet) is the sidebar where you can quickly jump to the information that is of interest to you.
 
-`MonoGame.Extended`, or just `Extended` for short, is a set of utilities in the form of [free and open-source (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software) libraries that provide common solutions problems related to game development. It is not an engine. It is not a framework. For more information on what `Extended` *is* and *is not*, read the [principles](docs/about/principles).
+`MonoGame.Extended`, or just `Extended` for short, is a set of utilities in the form of [free and open-source (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software) libraries that provide common solutions problems related to game development. It is not an engine. It is not a framework. For more information on what `Extended` *is* and *is not*, read the [principles](/docs/about/principles).
 
 ## Staying Informed
 

@@ -111,11 +111,11 @@ private Vector2 GetMovementDirection()
     var state = Keyboard.GetState();
     if (state.IsKeyDown(Keys.Down))
     {
-        movementDirection -= Vector2.UnitY;
+        movementDirection += Vector2.UnitY;
     }
     if (state.IsKeyDown(Keys.Up))
     {
-        movementDirection += Vector2.UnitY;
+        movementDirection -= Vector2.UnitY;
     }
     if (state.IsKeyDown(Keys.Left))
     {
